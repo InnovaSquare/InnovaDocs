@@ -170,6 +170,32 @@ img{border:0px;  outline-width:0px;  vertical-align:top;}
 	color: #f24649;
 	font-weight: bold;
 }
+
+
+
+.headerWrap_1 {
+	width: 100%;
+	background-color: #ffffff;
+	padding: 20px;
+}
+
+.header_1 {
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
+
+.logo_1 {
+	position: absolute;
+	left: 20px;
+}
+
+.heaR_1 {
+	position: absolute;
+	right: 20px;
+}
+
+
 .header .heaR a:hover{
 	background: #f24649;
 	color: #fff;

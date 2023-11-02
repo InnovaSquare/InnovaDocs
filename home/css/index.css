@@ -228,19 +228,19 @@
 	height: 50px;
 }
 .picScroll-left .bd ul li a i.ico{
-	background: url(../images/pic_btn1.png) no-repeat;
+	background: url(../images/pic_btn1-1.png) no-repeat;
 }
 .picScroll-left .bd ul li a i.ico1{
-	background: url(../images/pic_btn2-2.png) no-repeat;
+	background: url(../images/pic_btn2-3.png) no-repeat;
 }
 .picScroll-left .bd ul li a i.ico2{
 	background: url(../images/pic_btn3-2.png) no-repeat;
 }
 .picScroll-left .bd ul li a:hover i.ico{
-	background: url(../images/pic_btn1_hov.png) no-repeat;
+	background: url(../images/pic_btn1-1-hov.png) no-repeat;
 }
 .picScroll-left .bd ul li a:hover i.ico1{
-	background: url(../images/pic_btn2-2-hov.png) no-repeat;
+	background: url(../images/pic_btn2-3-hov.png) no-repeat;
 }
 .picScroll-left .bd ul li a:hover i.ico2{
 	background: url(../images/pic_btn3-2-hov.png) no-repeat;
